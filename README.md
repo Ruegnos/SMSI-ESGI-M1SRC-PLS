@@ -66,7 +66,7 @@ La version actuelle, ISO/IEC 27001:2022, a été publiée le 25 octobre 2022. El
 
 **4. Où trouver les documents de la norme ?**
 
-Les normes sont payantes : boutique de l’ISO (iso.org) ou boutique AFNOR pour la version française. Le prix de la 27001 est d’environ 125 $ sur le site de l’ISO.
+Les normes sont payantes : boutique de l’ISO (iso.org) ou boutique AFNOR pour la version française.
 
 **5. Combien coûte la certification ISO 27001 ?**
 
